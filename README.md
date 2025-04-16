@@ -42,6 +42,10 @@ This will take you to your browser, and open up the Streamlit-based webpage.
 
 Currently, it only supports Mandarin Chinese phrases w/ written characters and pinyin as card fronts, and English as card backs, but in the works are:
 
+* Scrape actual phrases/sentences from the internet/talkshows/interviews/etc.
+
+* Allow stratification by length of phrase/sentences
+
 * Cantonese Option
 
 * Arbitrary languages from [ManyThings](https://www.manythings.org/anki/)
