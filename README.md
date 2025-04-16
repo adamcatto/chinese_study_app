@@ -52,6 +52,10 @@ Currently, it only supports Mandarin Chinese phrases w/ written characters and p
 
 * Naturalistic synthetic voice to speak the Chinese, so you can hear how the tones are supposed to be pronounced
 
+* Create your own local profile to track progress
+
+* Progress / metrics visualization
+
 ## Contributing
 
 Please feel free to contribute new features, data, etc.
