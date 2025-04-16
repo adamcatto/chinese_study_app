@@ -1,6 +1,6 @@
 # Chinese Study App
 
-A simple Streamlit-based spaced-repetition application to study Chinese phrases.
+A simple Streamlit-based spaced-repetition application to study Chinese phrases, using the [ManyThings](https://www.manythings.org/anki/) dataset.
 
 ![Flashcard No English](assets/figures/flashcard_no_english.png)
 ![Flashcard w/ English](assets/figures/flashcard_with_english.png)
@@ -45,3 +45,13 @@ Currently, it only supports Mandarin Chinese phrases w/ written characters and p
 * Cantonese Option
 
 * Arbitrary languages from [ManyThings](https://www.manythings.org/anki/)
+
+* Validate that spaced repetition works
+
+* Allow you to explore cards
+
+* Naturalistic synthetic voice to speak the Chinese, so you can hear how the tones are supposed to be pronounced
+
+## Contributing
+
+Please feel free to contribute new features, data, etc.
