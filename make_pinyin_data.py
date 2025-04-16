@@ -19,8 +19,4 @@ def to_pinyin(text):
 # Apply the function to create a new 'pinyin' column
 df['pinyin'] = df['chinese'].apply(to_pinyin)
 
-# Display the first few rows
-print(df.head())
-
-# Optionally, save the processed DataFrame to a new file
 df.to_csv(ROOT_DIR / "data" / "cmn_with_pinyin.tsv", index=False, sep='\t')
